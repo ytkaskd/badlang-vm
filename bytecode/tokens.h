@@ -1,0 +1,9 @@
+enum {
+    EXC = 0xC0,
+    PUSH = 0xA0,
+    POP = 0xA1,
+    SUM = 0xB0,
+    SUB = 0xB1,
+    MUL = 0xB2,
+    DIV = 0xB3
+};
